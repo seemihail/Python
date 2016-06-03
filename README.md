@@ -1,2 +1,3 @@
 # Python
-Test
+print('Hello World!')
+
